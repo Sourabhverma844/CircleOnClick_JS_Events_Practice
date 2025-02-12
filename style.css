@@ -15,3 +15,7 @@ html, body{
     height: 100%;
     background-color: rgb(39, 189, 25);
 }
+#canvas h2{
+    color: black;
+    text-align: center;
+}
